@@ -1,7 +1,5 @@
-![Luis Alejandro Quimbayo Suarez Banner]()
 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola, soy Alejandro Quimbayo</h2>
+![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
 
 ### 👨🏻‍💻 &nbsp;Acerca de Mí
 
