@@ -43,3 +43,7 @@
 <a href="https://www.linkedin.com/in/luis-alejandro-quimbayo-suarez-89612a160/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:laquimbayos@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/laquimbayos/laquimbayos/blob/main/batman.png" alt="Batman">
+</p>
