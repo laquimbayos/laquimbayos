@@ -11,6 +11,8 @@
 
 ![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
 
+<img alt="Night Coding" src="https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif" align="right"/>
+
 💬 &nbsp;Puedes contactarme para consultas o discusiones interesantes.\
 ✉️ &nbsp;Puedes enviarme un correo a laquimbayos@gmail.com y te responderé lo antes posible.\
 📄 &nbsp;Echa un vistazo a mi [LinkedIn](https://www.linkedin.com/in/luis-alejandro-quimbayo-suarez-89612a160/) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
