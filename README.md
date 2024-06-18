@@ -19,9 +19,12 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-05122A?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![Stata](https://img.shields.io/badge/-Stata-05122A?style=flat&logo=stata)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi)&nbsp;
 ![Macros VBA](https://img.shields.io/badge/-Macros%20VBA-05122A?style=flat&logo=visual-studio)&nbsp;
+
+
 
 ### 📈 &nbsp;Áreas de Interés
 
