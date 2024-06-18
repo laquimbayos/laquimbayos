@@ -4,17 +4,16 @@
 
 ### 👨🏻‍💻 &nbsp;Acerca de Mí
 
-💡 &nbsp;Soy economista y contador público de la Universidad Nacional de Colombia y magister en Analytics de la Universidad de Los Andes.\
-💼 &nbsp;Soy un entusiasta de la ciencia de datos y me gusta integrarla con las finanzas, análisis de mercados, análisis macroeconómico y la automatización de procesos.\
-🌱 &nbsp;Estoy en continuo aprendizaje y me adapto rápidamente al cambio.\
-📊 &nbsp;Tengo excelentes habilidades para el análisis y visualización de información, inferencia con modelos estadísticos tradicionales y Machine Learning, modelos de optimización, modelos de simulación y privacidad diferencial.
+💡 &nbsp;Soy economista, contador público y magister en Analytics.\
+💼 &nbsp;Soy un entusiasta de la ciencia de datos y me gusta integrarla con las ciencias económicas (Finanzas, mercados, macroeconomía) y la automatización de procesos.\
+📊 &nbsp;Aquí encontrarás inferencia con modelos estadísticos tradicionales y Machine Learning, modelos de optimización, modelos de simulación y privacidad diferencial.
 
 ![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
 
 
-💬 &nbsp;Puedes contactarme para consultas o discusiones interesantes.\
-✉️ &nbsp;Puedes enviarme un correo a laquimbayos@gmail.com y te responderé lo antes posible.\
-📄 &nbsp;Echa un vistazo a mi [LinkedIn](https://www.linkedin.com/in/luis-alejandro-quimbayo-suarez-89612a160/) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+💬 &nbsp;Puedes contactarme si crees que puedo ayudarte con algun tema interesante.\
+✉️ &nbsp;Enviame un correo a laquimbayos@gmail.com y te responderé lo antes posible.\
+📄 &nbsp;Un poco sobre mi experiencia laboral [LinkedIn](https://www.linkedin.com/in/luis-alejandro-quimbayo-suarez-89612a160/) 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
