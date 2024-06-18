@@ -9,7 +9,7 @@
 🌱 &nbsp;Estoy en continuo aprendizaje y me adapto rápidamente al cambio.\
 📊 &nbsp;Tengo excelentes habilidades para el análisis y visualización de información, inferencia con modelos estadísticos tradicionales y Machine Learning, modelos de optimización, modelos de simulación y privacidad diferencial.\
 
-                                  ![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
+![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
 
 
 💬 &nbsp;Puedes contactarme para consultas o discusiones interesantes.\
