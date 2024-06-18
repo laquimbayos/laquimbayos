@@ -7,7 +7,7 @@
 💡 &nbsp;Soy economista y contador público de la Universidad Nacional de Colombia y magister en Analytics de la Universidad de Los Andes.\
 💼 &nbsp;Soy un entusiasta de la ciencia de datos y me gusta integrarla con las finanzas, análisis de mercados, análisis macroeconómico y la automatización de procesos.\
 🌱 &nbsp;Estoy en continuo aprendizaje y me adapto rápidamente al cambio.\
-📊 &nbsp;Tengo excelentes habilidades para el análisis y visualización de información, inferencia con modelos estadísticos tradicionales y Machine Learning, modelos de optimización, modelos de simulación y privacidad diferencial.\
+📊 &nbsp;Tengo excelentes habilidades para el análisis y visualización de información, inferencia con modelos estadísticos tradicionales y Machine Learning, modelos de optimización, modelos de simulación y privacidad diferencial.
 
 ![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
 
