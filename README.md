@@ -1,15 +1,16 @@
 
-![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola, soy Alejandro Quimbayo</h2>
 
 
 ### 👨🏻‍💻 &nbsp;Acerca de Mí
 
 💡 &nbsp;Soy economista y contador público de la Universidad Nacional de Colombia y magister en Analytics de la Universidad de Los Andes.\
-💼 &nbsp;Soy un entusiasta de la ciencia de datos y me gustan integrarla con las finanzas, los costos, el análisis macroeconómico y la automatización de procesos.\
+💼 &nbsp;Soy un entusiasta de la ciencia de datos y me gusta integrarla con las finanzas, análisis de mercados, análisis macroeconómico y la automatización de procesos.\
 🌱 &nbsp;Estoy en continuo aprendizaje y me adapto rápidamente al cambio.\
 📊 &nbsp;Tengo excelentes habilidades para el análisis y visualización de información, inferencia con modelos estadísticos tradicionales y Machine Learning, modelos de optimización, modelos de simulación y privacidad diferencial.\
+
+![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
+
 💬 &nbsp;Puedes contactarme para consultas o discusiones interesantes.\
 ✉️ &nbsp;Puedes enviarme un correo a laquimbayos@gmail.com y te responderé lo antes posible.\
 📄 &nbsp;Echa un vistazo a mi [LinkedIn](https://www.linkedin.com/in/luis-alejandro-quimbayo-suarez-89612a160/) para más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
