@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;Acerca de Mí
 
 💡 &nbsp;Soy economista, contador público y magister en Analytics.\
-💼 &nbsp;Soy un entusiasta de la ciencia de datos y me gusta integrarla con las ciencias económicas (Finanzas, mercados, macroeconomía) y la automatización de procesos.\
+💼 &nbsp;Soy un entusiasta de la ciencia de datos y me gusta integrarla con las ciencias económicas (Finanzas, mercados, macroeconomía, educación) y la automatización de procesos.\
 📊 &nbsp;Aquí encontrarás inferencia con modelos estadísticos tradicionales y Machine Learning, modelos de optimización, modelos de simulación y privacidad diferencial.
 
 ![Luis Alejandro Quimbayo Suarez Banner](https://github.com/laquimbayos/laquimbayos/blob/main/3Wby.gif)
